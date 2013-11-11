@@ -29,11 +29,11 @@ In order to publish locally configure sbt to
 
 If you just need to configure sbt to resolve one of the repositories add:
 
-    resolvers += "oose (releases" at "http://oose.github.io/m2/releases"
+    resolvers += "oose (releases)" at "http://oose.github.io/m2/releases"
 
 or
 
-    resolvers += "oose (releases" at "http://oose.github.io/m2/snapshots"
+    resolvers += "oose (releases)" at "http://oose.github.io/m2/snapshots"
 
 
 ## Posts
