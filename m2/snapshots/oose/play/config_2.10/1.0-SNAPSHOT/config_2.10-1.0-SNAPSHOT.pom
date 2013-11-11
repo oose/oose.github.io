@@ -5,7 +5,7 @@
     <artifactId>config_2.10</artifactId>
     <packaging>jar</packaging>
     <description>config</description>
-    <version>0.1-SNAPSHOT</version>
+    <version>1.0-SNAPSHOT</version>
     <name>config</name>
     <organization>
         <name>oose.play</name>
