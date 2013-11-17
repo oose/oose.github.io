@@ -22,5 +22,18 @@
             <version>2.2.1</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>org.springframework.scala</groupId>
+            <artifactId>spring-scala_2.10</artifactId>
+            <version>1.0.0.RC1</version>
+        </dependency>
     </dependencies>
+    <repositories>
+        <repository>
+            <id>Springsource</id>
+            <name>Springsource</name>
+            <url>http://repo.springsource.org/milestone/</url>
+            <layout>default</layout>
+        </repository>
+    </repositories>
 </project>
